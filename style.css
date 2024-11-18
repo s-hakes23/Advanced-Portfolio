@@ -1,0 +1,108 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.logostill{
+    width: 30px;
+    height: 30px;
+}
+body{
+    background-image: url(background.png);
+    background-size: cover;
+}
+.secondlogo2{
+    width: 30px;
+    height: 30px;
+}
+.navicon{
+    
+    font-size: 30px;
+}
+.nba{
+    margin-left: 560px;
+    /* font-family: 'Courier New', Courier, monospace; */
+    font-size: 20px;
+    color: white;
+   
+}
+.glass{
+    background-color:  teal;
+}
+.firstnav{
+    background-color: teal;
+}
+.store{
+    color: white;
+    font-size: 30px;
+}
+.firstjersey{
+    height: 300px;
+}
+.jesser{
+    font-size: 26px;
+    background-color: white;
+    padding-bottom: 10px;
+}
+nav{
+    display: flex;
+}
+.jerseytwo{
+    margin-top: 60px;
+    margin-left: 250px;
+}
+.secondjersey{
+    width: 380px;
+    height: 380px;
+    
+}
+.pep{
+    background-color: white;
+    width: 380px;
+    height: 380px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.hap{
+    background-size: cover;
+}
+.hep{
+    background-size: cover;
+    /* height: 380px; */
+}
+.phc{
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+.dev{
+    display: flex;
+}
+.webare{
+    
+    width: 380px;
+    height: 405px;
+    margin-top: 20px;
+    margin-left: 90px;
+    background-image: url(logo.jpeg);
+    background-size: contain;
+}
+
+
+.swim{
+        
+    width: 380px;
+    height: 405px;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 90px;
+}
+
+.lid{
+    font-family: 'Courier New', Courier, monospace;
+    color:  black;
+}
+.contact{
+    background-color: black;
+    padding: 5%;
+    text-decoration: none;
+    margin-left: 3px;
+}

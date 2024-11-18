@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(back2.jpg);
+    background-size: cover;
+}
+.hlw{
+    width: 60px;
+    height: 40px;
+    margin-right: 360px;
+}
+.about{
+    margin-right: 20px;
+}
+.about2{
+    margin-right: 20px;
+}
+.git{
+    margin-top: 15px;
+    font-size: 23px;
+}
+.ph{
+    color: white;
+}
+.au{
+    padding: 2%;
+    background-color: gold;
+    text-decoration: none;
+}
+.ri{
+    padding: 2%;
+    background-color: gold;
+    text-decoration: none;
+}
